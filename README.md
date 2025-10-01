@@ -11,7 +11,7 @@
 ## Kỹ năng
 
 - **Frontend**: ReactJS, Next.js, TailwindCSS
-- **Backend**: Java (Spring), Express.js
+- **Backend**: Java (Spring), Express.js, Python
 - **Database**: MySQL, MongoDB
 - **Khác**: Git/GitHub, SEO Web
 
