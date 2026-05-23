@@ -1,4 +1,4 @@
-# Hi there, I'm Dan 👋
+# Hi there, I'm Dan ??
 
 ```java
 while(alive){
@@ -9,16 +9,16 @@ while(alive){
 }
 ```
 
-## 🚀 About Me
+## ?? About Me
 
-🎓 Final-year Software Engineering student  
-💻 Java Backend Developer  
-⚡ Passionate about scalable backend systems & distributed architectures  
-🔥 Interested in Microservices, Reactive Programming, Kafka, Redis, and Cloud-native systems
+?? Final-year Software Engineering student  
+?? Java Backend Developer  
+? Passionate about scalable backend systems & distributed architectures  
+?? Interested in Microservices, Reactive Programming, Kafka, Redis, and Cloud-native systems
 
 ---
 
-## 🛠 Tech Stack
+## ?? Tech Stack
 
 ### Backend
 
@@ -57,7 +57,7 @@ while(alive){
 
 ---
 
-## 🧠 Core Knowledge
+## ?? Core Knowledge
 
 - Clean Architecture
 - Reactive Programming
@@ -71,36 +71,36 @@ while(alive){
 
 ---
 
-## 🚀 Featured Projects
+## ?? Featured Projects
 
-### 🏸 BadmintonNet
+### ?? BadmintonNet
 
 Community badminton platform with real-time features.
 
-🔹 Spring Boot Backend  
-🔹 JWT Authentication  
-🔹 WebSocket Real-time Notification  
-🔹 Docker Deployment  
-🔹 AI Search Module
+?? Spring Boot Backend  
+?? JWT Authentication  
+?? WebSocket Real-time Notification  
+?? Docker Deployment  
+?? AI Search Module
 
-🌐 https://badmintonnet.me
+?? https://badmintonnet.me
 
 ---
 
-### 📚 Thesis Management System
+### ?? Thesis Management System
 
 Fullstack thesis management platform.
 
-🔹 NestJS Backend  
-🔹 React Frontend  
-🔹 JWT Security  
-🔹 Google Sheets API Integration
+?? NestJS Backend  
+?? React Frontend  
+?? JWT Security  
+?? Google Sheets API Integration
 
-🌐 https://thesis-manager-vdan.vercel.app/
+?? https://thesis-manager-vdan.vercel.app/
 
 ---
 
-## 📈 GitHub Stats
+## ?? GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vdan2242004&show_icons=true&theme=tokyonight)
 
@@ -110,12 +110,13 @@ Fullstack thesis management platform.
 
 ---
 
-## 🌍 Connect With Me
+## ?? Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huynhdan224/)
 
-📧 vdan2242004@gmail.com
+?? vdan2242004@gmail.com
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=vdan2242004&style=for-the-badge)
+
