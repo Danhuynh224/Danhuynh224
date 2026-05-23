@@ -103,9 +103,6 @@ A complete thesis lifecycle management system for university workflows.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Danhuynh224&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danhuynh224&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Danhuynh224&theme=default&hide_border=true" />
 
 </div>
