@@ -8,7 +8,7 @@ Building scalable backend systems with a focus on distributed architectures, rea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynhdan224/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vdan2242004@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=vdan2242004&style=flat-square&color=0A66C2)
+![Profile Views](https://komarev.com/ghpvc/?username=Danhuynh224&style=flat-square&color=0A66C2)
 
 </div>
 
@@ -103,10 +103,10 @@ A complete thesis lifecycle management system for university workflows.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vdan2242004&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdan2242004&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Danhuynh224&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danhuynh224&layout=compact&theme=default&hide_border=true&langs_count=8" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vdan2242004&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Danhuynh224&theme=default&hide_border=true" />
 
 </div>
 
