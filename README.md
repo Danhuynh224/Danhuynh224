@@ -1,122 +1,121 @@
-# Hi there, I'm Dan ??
+<div align="center">
 
-```java
-while(alive){
-    eat();
-    sleep();
-    code();
-    repeat();
-}
+# Hi, I'm Dan 👋
+
+### Java Backend Developer · Final-year Software Engineering Student
+
+Building scalable backend systems with a focus on distributed architectures, reactive programming, and cloud-native technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynhdan224/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vdan2242004@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=vdan2242004&style=flat-square&color=0A66C2)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: Dan
+role: Java Backend Developer
+education: Final-year Software Engineering
+focus:
+  - Microservices & Distributed Systems
+  - Reactive Programming
+  - Event-Driven Architecture
+  - Cloud-Native Development
+currently_learning:
+  - Kafka Streams
+  - Kubernetes Operators
+  - System Design at scale
 ```
 
-## ?? About Me
+---
 
-?? Final-year Software Engineering student  
-?? Java Backend Developer  
-? Passionate about scalable backend systems & distributed architectures  
-?? Interested in Microservices, Reactive Programming, Kafka, Redis, and Cloud-native systems
+## ⚙️ Tech Stack
+
+#### Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+#### Messaging & Caching
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-## ?? Tech Stack
+## 📚 Core Competencies
 
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
+| Architecture | Backend | Infrastructure |
+|---|---|---|
+| Clean Architecture | RESTful API Design | CI/CD Pipelines |
+| Microservices | Reactive Programming | Container Orchestration |
+| Event-Driven Systems | WebSocket & Real-time | Distributed Tracing |
+| Domain-Driven Design | Concurrent Processing | Database Optimization |
 
 ---
 
-### Frontend
+## 🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+### BadmintonNet — Community Badminton Platform
+A real-time community platform connecting badminton players with AI-powered match search.
 
----
+**Stack:** Spring Boot · WebSocket · JWT · Docker · AI Search Module
+**Highlights:** Real-time notifications, JWT-secured authentication, containerized deployment
 
-### Database
+🔗 [badmintonnet.me](https://badmintonnet.me)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge)
+### Thesis Management System — Fullstack Academic Platform
+A complete thesis lifecycle management system for university workflows.
 
----
+**Stack:** NestJS · React · JWT · Google Sheets API
+**Highlights:** Role-based access, external API integration, modern fullstack architecture
 
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+🔗 [thesis-manager-vdan.vercel.app](https://thesis-manager-vdan.vercel.app/)
 
 ---
 
-## ?? Core Knowledge
+## 📊 GitHub Stats
 
-- Clean Architecture
-- Reactive Programming
-- RESTful APIs
-- WebSocket
-- Microservices
-- CI/CD
-- Database Design
-- Distributed Systems
-- Concurrent Processing
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vdan2242004&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdan2242004&layout=compact&theme=default&hide_border=true&langs_count=8" />
 
-## ?? Featured Projects
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vdan2242004&theme=default&hide_border=true" />
 
-### ?? BadmintonNet
-
-Community badminton platform with real-time features.
-
-?? Spring Boot Backend  
-?? JWT Authentication  
-?? WebSocket Real-time Notification  
-?? Docker Deployment  
-?? AI Search Module
-
-?? https://badmintonnet.me
+</div>
 
 ---
 
-### ?? Thesis Management System
+<div align="center">
 
-Fullstack thesis management platform.
+### Let's build something great together.
 
-?? NestJS Backend  
-?? React Frontend  
-?? JWT Security  
-?? Google Sheets API Integration
+📧 **vdan2242004@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/huynhdan224/)
 
-?? https://thesis-manager-vdan.vercel.app/
-
----
-
-## ?? GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vdan2242004&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vdan2242004&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vdan2242004&layout=compact&theme=tokyonight)
-
----
-
-## ?? Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huynhdan224/)
-
-?? vdan2242004@gmail.com
-
----
-
-![](https://komarev.com/ghpvc/?username=vdan2242004&style=for-the-badge)
-
+</div>
